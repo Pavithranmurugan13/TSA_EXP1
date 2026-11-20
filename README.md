@@ -47,16 +47,16 @@ plt.show()
 # OUTPUT:
 
 ## Dataset
+<img width="592" height="198" alt="Dataset" src="https://github.com/user-attachments/assets/f721cad8-a1c6-4c08-970a-d8e24cc9d0b0" />
 
-![alt text](output/Dataset.png)
 
 ## Cleaned Data
 
-![alt text](output/cleaned.png)
+<img width="245" height="207" alt="cleaned" src="https://github.com/user-attachments/assets/e0c73ad8-0a90-4c07-8875-cae53a7a04bf" />
 
 ## Plot
 
-![alt text](output/plot.png)
+<img width="1189" height="590" alt="plot" src="https://github.com/user-attachments/assets/4978a963-f016-4f2b-a22e-5fac44a3877f" />
 
 # RESULT:
 Thus we have created the python code for plotting the time series of given data.
